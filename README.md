@@ -25,7 +25,7 @@ $ git clone https://github.com/nguyenchris/liri-node-app.git
 $ npm install
 ```
 
-> Create .env file at root directory and values with your API keys
+> Create .env file at root directory with the values being your API keys
 
 ```js
 # Spotify API keys
