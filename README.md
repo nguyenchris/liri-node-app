@@ -4,7 +4,7 @@
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data. 
 
-![](images/liri-spotify.gif)
+![](images/liri-movie.gif)
 
 ## Getting Started
 
@@ -83,6 +83,6 @@ SPOTIFY_SECRET=your-spotify-secret
 
 
 ### Author
-Chris Nguyen [Chris Nguyen](https://github.com/nguyenchris)
+[Chris Nguyen](https://github.com/nguyenchris)
 
 
