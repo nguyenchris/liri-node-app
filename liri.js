@@ -1,8 +1,6 @@
 require("dotenv").config();
 
-const inquirer = require('inquirer');
 const Spotify = require('node-spotify-api');
-const request = require('request');
 const moment = require('moment');
 const axios = require('axios');
 const keys = require('./keys');
